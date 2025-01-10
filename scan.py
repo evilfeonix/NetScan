@@ -129,7 +129,7 @@ def end_banner(host, open_port, hacker, total_port, startime):
     print( f"[+]  \033[92mYou gotta open Record directory in order to check\033[91m  [+]")
     print( f"[+]   \033[92mthe complete result that include targets banner\033[91m   [+]")
     print( "===========================================================")
-    print( f"       (:     \033[92mG00D BYE {hacker}\033[92m!                       ")
+    print( f"       (:     \033[92mHappy Scanning Agent {hacker}\033[92m!                       ")
     print( f"              \033[0m ^_^       \033[92mhave a nice day... \033[91m    :)      ")
     print( "===========================================================")
 
